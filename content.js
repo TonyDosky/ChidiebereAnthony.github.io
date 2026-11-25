@@ -12,12 +12,12 @@
 
 const content = {
   // ---------- About you ----------
-  name: "Percy Portfolio",
+  name: "Chidiebere Anthony",
   tagline: "Aspiring software developer & professional thumbs-up giver 👍", // one line under your name
 
   // Put your photo in the assets/ folder and put its file name here.
   // Square-ish, about 600px wide, under 1 MB works best.
-  photo: "assets/photo.jpg",
+  photo: "",
 
   // 1–3 sentences: what you care about and what you're looking for.
   mission:
